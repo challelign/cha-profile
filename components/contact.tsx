@@ -17,7 +17,7 @@ export default function Contact() {
 		<motion.section
 			id="contact"
 			ref={ref}
-			className="mb-20 sm:mb-28 w-[min(100%,38rem)] text-center"
+			className="mb-20 sm:mb-28 w-[min(100%,45rem)] text-center"
 			initial={{
 				opacity: 0,
 			}}
@@ -31,10 +31,12 @@ export default function Contact() {
 				once: true,
 			}}
 		>
-			<SectionHeading>Contact me</SectionHeading>
+			<SectionHeading>
+				HERE'S A <span className="text-[#fca5a5] font-bold ">CONTACT FORM</span>{" "}
+			</SectionHeading>
 
-			<p className="text-gray-700 -mt-6 dark:text-white/80">
-				Please contact me directly at{" "}
+			<p className="text-gray-700 mt-6 dark:text-white/80">
+				Have Any Questions? Please contact me directly at{" "}
 				<a className="underline" href="mailto:example@gmail.com">
 					chalie2123@@gmail.com
 				</a>{" "}
