@@ -1,4 +1,4 @@
-Software Developer: Over 4 years of professional experience as a Full Stack
+Software Developer: Over 5 years of professional experience as a Full Stack
 Developer (Front End and Back End) in web and Android application
 development.
 Proficient in Web app development using Node.js (MERN Stack), Laravel (PHP),

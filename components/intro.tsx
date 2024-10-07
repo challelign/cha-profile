@@ -66,12 +66,13 @@ export default function Intro() {
 				<span className="font-bold text-[#fca5a5] ">
 					a full-stack developer
 				</span>{" "}
-				with <span className="font-bold">4 years</span> of experience. I enjoy
+				with <span className="font-bold">5 years</span> of experience. I enjoy
 				building <span className="italic">sites & apps</span>. My focus is{" "}
 				<span className="font-bold text-[#fca5a5] ">
-					Next.js, Laravel , MERN Stack
+					Next.js, Laravel ,React.js, Nodejs, Mongoose , MySQL, Oracle,PrismaORM
+					and more ORM
 				</span>{" "}
-				like Mongodb , Express ,React ,Nodejs, Prisma and more..
+				{/* like Mongodb , Express ,React ,Nodejs, Prisma and more.. */}
 			</motion.h1>
 
 			<motion.div

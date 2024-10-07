@@ -19,7 +19,7 @@ export default function About() {
 		>
 			<SectionHeading>About me</SectionHeading>
 			<p className="mb-3">
-				Web and Mobile Application developer over 4 years of professional
+				Web and Mobile Application developer over 5 years of professional
 				experience as <span className="font-medium">full-stack developer</span>{" "}
 				{"  "}
 				with solid understanding of Web app Development using SDLC{"  "}
