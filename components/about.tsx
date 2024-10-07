@@ -28,7 +28,7 @@ export default function About() {
 				feeling of finally figuring out a solution to a problem. My core stack
 				is{" "}
 				<span className="font-medium">
-					Laravel,React, Next.js, Node.js, and MongoDB
+					React, Next.js, Node.js,Laravel, MongoDB,MySQL and Oracle
 				</span>
 				. I am proficient in TypeScript and Prisma. I have a strong eagerness to
 				learn and stay updated with emerging technologies. Currently, I am

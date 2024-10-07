@@ -7,6 +7,9 @@ import amazon from "@/public/amazon.png";
 import lms from "@/public/lms.png";
 import agrado from "@/public/agrado.png";
 import event from "@/public/evently.png";
+import usePop from "@/public/usePop.png";
+import nikeLanding from "@/public/nikeLanding.png";
+import twiterClone from "@/public/twiterClone.png";
 
 export const links = [
 	{
@@ -81,6 +84,31 @@ export const projectsData = [
 		proLink: "https://learning-management-system-advanced.vercel.app/",
 	},
 	{
+		title: "usePopcorn movie",
+		description:
+			"Allows users to search for movies using the online Movie Database (OMDb) API. Key features ,Users can search for movies by title and retrieve detailed information. After viewing a movie, users can rate it based on their experience. Users can add movies they've watched to a personalized list, which is stored in the browser's local storage for easy access.Users can easily remove movies from their watched list as needed. ",
+		tags: ["React", "JavaScript", "React Hooks", "Tailwindcss"],
+		imageUrl: usePop,
+		proLink: "https://usepopcorn-rosy.vercel.app/",
+	},
+	{
+		title: "Nike Landing page",
+		description:
+			" This site is Nike Landing page using Tailwind css and react js that shows Products features ,new arrivals , Popular products ,super quality shoes and special offer  ",
+		tags: ["React", "JavaScript", "Tailwindcss"],
+		imageUrl: nikeLanding,
+		proLink: "https://nike-nine-xi.vercel.app/",
+	},
+
+	{
+		title: "Twiter clone",
+		description:
+			" Twitter clone using modern web technologies: React, Tailwind CSS, Next.js, Prisma, and MongoDB. Key Features are Authentication System,Notification System , Image Upload,Prisma ORM with MySQL and Responsive Layout",
+		tags: ["React", "TypeScript", "Tailwindcss", "React Hooks", "Next Js"],
+		imageUrl: twiterClone,
+		proLink: "https://www.youtube.com/watch?v=_ykc-8qwaWA&t=19s",
+	},
+	{
 		title: "Evently",
 		description:
 			"Evently is a unique platform which connects companies & professionals with event suppliers who match their specific criteria , organizer have their account and can post their event , purchase event and check order detail",
@@ -92,6 +120,7 @@ export const projectsData = [
 			"MongoDB",
 			"NextAuth",
 			"Strip Payment",
+			"Tailwindcss",
 		],
 		imageUrl: event,
 		proLink: "https://event-promotion.vercel.app/",
@@ -107,6 +136,8 @@ export const projectsData = [
 			"Tailwind",
 			"Redux Toolkit",
 			"Strip Payment",
+			,
+			"Tailwindcss",
 		],
 		imageUrl: amazon,
 		proLink: "https://amazon-shopping-gold.vercel.app/",
